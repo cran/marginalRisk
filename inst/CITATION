@@ -1,0 +1,9 @@
+year <- sub("-.*", "", meta$Date)
+
+bibentry(bibtype="manual",
+         title = "kyotil: Utility Functions for Statistical Analysis Report Generation and Monte Carlo Studies",
+         author = personList(as.person("Youyi Fong"), as.person("Kristian Sebestyen")),
+         year = year,
+         url = "https://CRAN.R-project.org/package=kyotil")
+
+

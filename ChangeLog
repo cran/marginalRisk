@@ -1,0 +1,11 @@
+2020.12.2
+    * New
+
+2020.12.17
+    * Add newdata to predict(fit.s, newdata=data, type="probs") such that fit.s does not need to be run from the same data as fit.risk
+
+2021.1.6
+    * Documentation
+
+2021.1.7
+    * Add three functions from CoPVeryhighVE paper

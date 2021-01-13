@@ -1,0 +1,3 @@
+export(marginal.risk, marginal.risk.cat, marginal.risk.cont, bias.factor, E.value, controlled.risk.bias.factor)
+
+import(stats)

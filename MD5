@@ -1,0 +1,15 @@
+1b73531364304b96ba6c6315eba3cab7 *ChangeLog
+5ecdd5ef61e90748e39bed25ba44fdaf *DESCRIPTION
+15100fc6b0265482983a04bb5c2b1a33 *NAMESPACE
+57987d8d54b1156569ab6bde337cf9d0 *R/EvalueControlledrisk.R
+f2aef2c26b066effeedea3803dffcb16 *R/marginal.risk.R
+80b45a4b8c0da08dabfabc782ea08012 *build/vignette.rds
+fb01831c20ebfe51da2d508a34d5186a *inst/CITATION
+2a4d3fc97f5ac35125800a8f79528c15 *inst/doc/marginalRisk-vignette.pdf
+a616e808bd826e929f56223020649675 *inst/unitTests/Makefile
+515b18df7e17596dc38b9dbea407b26f *inst/unitTests/runRUnitTests.R
+190f2442319275c76c2a3062b44f905e *inst/unitTests/runit.marginal.risk.R
+d72a5104f6c4b3b0435efa7d24487fdf *man/bias.factor.Rd
+9ece16ff8b75f9bb9e1082c4b0ce5d56 *man/marginal.risk.Rd
+a29e7c67de8e9d5e2c2470bff4c47b05 *tests/doRUnit.R
+2eab3eb5f9602e9c23fb5b4b9e020e9f *vignettes/marginalRisk-vignette.pdf.asis
